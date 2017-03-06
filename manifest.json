@@ -1,7 +1,7 @@
 {
   "name": "ОЗВУЧИТЬ ТЕКСТ",
   "description": "Озвучивает выбранный текст",
-  "version": "0.5",
+  "version": "0.6",
   "permissions": [
     "tts",
     "contextMenus",

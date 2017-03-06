@@ -2,7 +2,7 @@ Speak = {
     fullString: "",
     status: false,
     time: 500,
-    speed: 0,
+    speed: 1,
     Start: function () {
         setInterval(function () {
             chrome.tts.isSpeaking(function (t) {
